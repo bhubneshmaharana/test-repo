@@ -1,4 +1,4 @@
-basic cmds 
+Basic commmands 
 
 ls (list) -> list the folder and files in the directory 
 cd (change directory) -> change the working directory 
