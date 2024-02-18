@@ -1,0 +1,18 @@
+
+information about the person who is making the changes in the repositary
+
+git config --global user.name “Username”  
+git config --global user.email "email"
+
+
+Saving the changes locallly 
+git init -> create a local git repositary 
+git add -> track the changes in the directory 
+git status -> show the tracking files 
+git commit -m "message" -> save the tracking changes in the local repositary 
+git log -> show the commit history
+
+saving the cahnges remotrlly 
+
+
+

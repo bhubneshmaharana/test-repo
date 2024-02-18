@@ -1,4 +1,4 @@
-Basic commmands 
+﻿Basic commmands 
 
 ls (list) -> list the folder and files in the directory 
 cd (change directory) -> change the working directory 
@@ -13,3 +13,7 @@ touch -> create a file
 cat -> print the file content on the terminal 
 nano or vi -> create and edit a file
 clear -> clear the terminal and memory 
+
+
+
+https://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@github.com/bhubneshmaharana/test-repo.git
