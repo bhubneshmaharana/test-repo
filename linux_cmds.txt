@@ -1,0 +1,15 @@
+basic cmds 
+
+ls (list) -> list the folder and files in the directory 
+cd (change directory) -> change the working directory 
+    cd .. -> come out of directory 
+    cd path -> go into the directory 
+mkdir -> create a folder in working directory 
+rm -> remove the file or directory 
+rmdir -> remove EMPTY directory 
+mv -> move to file 
+cp -> copy the file 
+touch -> create a file 
+cat -> print the file content on the terminal 
+nano or vi -> create and edit a file
+clear -> clear the terminal and memory 
